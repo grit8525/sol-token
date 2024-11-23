@@ -1,7 +1,7 @@
 {
     "name": "Sharjeel Token",
-    "symbol": "SharjeelCOIN",
-    "uri": "https://github.com/phantom2421/sol-token/blob/main/coin.png",
+    "symbol": "SCN",
+    "uri": "https://raw.githubusercontent.com/phantom2421/sol-token/main/coin.png",
     "uriHash": "sha256_hash_of_uri",
     "sellerFeeBasisPoints": 300,
     "creators": null
